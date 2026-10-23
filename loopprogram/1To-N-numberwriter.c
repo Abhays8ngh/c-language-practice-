@@ -10,7 +10,7 @@ int main()
     for ( i = 1; i <=n; i++)
     {
         /* code */
-        printf("%d\n " ,i);
+        printf("%d\n" ,i);
         
     }
         
