@@ -19,7 +19,7 @@ int main()
         
     }
     else
-        printf("not prime number\n")
+        printf("not prime number\n");
     
     
     return 0;
