@@ -4,7 +4,7 @@ int main()
 {
     int a[10]={};
     static int even,odd;
-    printf("enter 10rando number to check even or odd\n");
+    printf("enter 10 random number to check even or odd\n");
     for (int i = 0; i <3; i++)
     {
         /* code */
