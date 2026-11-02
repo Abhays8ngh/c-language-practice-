@@ -13,6 +13,6 @@ int main()
     for(int i = 0; i < 10; i++)
     {
         printf("%d x %d = %d\n", n, i + 1, a[i]);
-    }3
+    }
     return 0;
 }
