@@ -9,7 +9,7 @@ int main()
     }
     for(int i = 0; i < 10; i++)
     {
-        printf("%d ", a[i]);
+        printf("%d x %d = %d\n", 5, i + 1, a[i]);
     }
     return 0;
 }
